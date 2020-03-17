@@ -1,2 +1,2 @@
 # burger-builder
-A react app
+A react JS App.
